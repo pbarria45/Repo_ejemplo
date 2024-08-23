@@ -1,3 +1,4 @@
 Jesús modificó el archivo de Pedro desde el repositorio local. 
 Editado desde la tercera rama
 se editó desde la rama que se creó y se va a subir.
+probando el git diff
